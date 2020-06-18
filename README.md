@@ -1,1 +1,1 @@
-# capstone-coursera-week1
+# capstone-coursera-IBM-DatsScience
